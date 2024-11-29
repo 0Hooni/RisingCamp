@@ -22,3 +22,4 @@ RESTful API 및 로그인 방식의 이해(Session-Cookie, oAuth, JWT)에 대해
 
 # 결과
 ### 🎊 수료(완) 🎊
+![수료증](https://github.com/user-attachments/assets/e7ec44d1-02d4-48ba-8c0e-0f6f9ddd13b3)
